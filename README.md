@@ -4,4 +4,5 @@
 
 - When threshold levels are met, a notification system is activated.
 
-- Afrika's Talking products will be used for bulk messaging.
+- Afrika's Talking products will be used for bulk messagig
+- DATA VIUALIZATION will be key in this prject
